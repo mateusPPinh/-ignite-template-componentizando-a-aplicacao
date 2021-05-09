@@ -5,6 +5,7 @@ Tecnologias utilizadas:
  - React JS
  - useContext API
  - sass
+ - Typescript
 
  Imagem da aplicação:
  
